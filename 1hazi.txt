@@ -1,3 +1,4 @@
 Ez az alapja a Kutinfó házimnak, ezt a fájlt fogom fejleszteni.
 Kicseréltem az első plussz sort, így biztos jobb lesz.
 És itt jön az alapverzió utolsó része.
+Ezt a sort csak a premium verzió tartalmazza.

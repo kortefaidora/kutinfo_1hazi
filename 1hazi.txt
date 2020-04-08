@@ -1,1 +1,2 @@
 Ez az alapja a Kutinfó házimnak, ezt a fájlt fogom fejleszteni.
+Ez az első plussz sor.
